@@ -26,7 +26,6 @@ export const getCourseList=async(level)=>{
                 markdown
                 html
               } 
-              
               output{
                 markdown
                 html
